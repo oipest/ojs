@@ -779,8 +779,8 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="about.focusAndScope">Focus and Scope</message>
 	<message key="about.sectionPolicies">Section Policies</message>
 	<message key="about.submissions">Submissions</message>
-	<message key="about.onlineSubmissions.login">Login</message>
-	<message key="about.onlineSubmissions.register">Register</message>
+	<message key="about.onlineSubmissions.login">ログイン</message>
+	<message key="about.onlineSubmissions.register">登録</message>
 	<message key="about.onlineSubmissions.registrationRequired">{$login} or {$register} to make a submission.</message>
 	<message key="about.onlineSubmissions.submissionActions">{$newSubmission} or {$viewSubmissions}.</message>
 	<message key="about.onlineSubmissions.newSubmission">Make a new submission</message>
@@ -929,12 +929,12 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="installer.reinstallAfterDatabaseError"><![CDATA[<strong>Warning:</strong> If installation failed part way through database installation you may need to drop your OJS database or database tables before attempting to reinstall the database.]]></message>
 	<message key="installer.overwriteConfigFileInstructions"><![CDATA[<h4>IMPORTANT!</h4>
 <p>The installer could not automatically overwrite the configuration file. Before attempting to use the system, please open <tt>config.inc.php</tt> in a suitable text editor and replace its contents with the contents of the text field below.</p>]]></message>
-	<message key="installer.installationComplete"><![CDATA[<p>Installation of OJS has completed successfully.</p>
-<p>To begin using the system, <a href="{$loginUrl}">login</a> with the username and password entered on the previous page.</p>
-<p>If you wish to be part of the PKP community, you can:</p>
+	<message key="installer.installationComplete"><![CDATA[<p>OJSのインストールは正常に完了しました。</p>
+<p>システムの使用を開始するには、前のページで入力したユーザー名とパスワードで<a href="{$loginUrl}">ログイン</a>します。</p>
+<p>PKPコミュニティに参加したい場合は、以下のことができます。</p>
 <ol>
-	<li>Read the <a href="http://pkp.sfu.ca/blog" target="_new">PKP blog</a> and follow the <a href="http://pkp.sfu.ca/blog/feed" target="_new">RSS feed</a> for news and updates.</li>
-	<li>Visit the <a href="http://forum.pkp.sfu.ca" target="_new">support forum</a> if you have questions or comments.</li>
+	<li><a href="http://pkp.sfu.ca/blog" target="_new">PKPブログ</a>を読み、<a href="http://pkp.sfu.ca/blog/feed" target="_new">RSSフィード</a> を参照してください。</li>
+	<li>ご質問やご意見がございましたら、<a href="http://forum.pkp.sfu.ca" target="_new">サポートフォーラム</a>をご覧ください。</li>
 </ol>]]></message>
 	<message key="installer.upgradeComplete"><![CDATA[<p>Upgrade of OJS to version {$version} has completed successfully.</p>
 <p>Don't forget to set the "installed" setting in your config.inc.php configuration file back to <em>On</em>.</p>

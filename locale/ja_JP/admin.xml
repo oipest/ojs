@@ -50,7 +50,7 @@
 	<message key="admin.journals.createInstructions">You will automatically be enrolled as the manager of this journal. After creating a new journal, you will be redirected to its settings wizard, to complete the initial journal setup.</message>
 	<message key="admin.journals.journalSettings">Journal Settings</message>
 	<message key="admin.journals.noneCreated">No journals have been created.</message>
-	<message key="admin.contexts.create">Create Journal</message>
+	<message key="admin.contexts.create">ジャーナルを作成する</message>
 	<message key="admin.journals.urlWillBe">This should be a single short word or acronym that identifies the journal. The journal's URL will be {$sampleUrl}.</message>
 	<message key="admin.contexts.form.titleRequired">A title is required.</message>
 	<message key="admin.contexts.form.pathRequired">A path is required.</message>
@@ -82,7 +82,7 @@
 	<message key="admin.categories.create">Create a new Category</message>
 	<message key="admin.categories.noneCreated">No categories have been created.</message>
 	<message key="admin.categories.confirmDelete">Are you sure you wish to delete this category?</message>
-	<message key="admin.categories.name">Name</message>
+	<message key="admin.categories.name">名前</message>
 	<message key="admin.categories.nameRequired">A category name is required.</message>
 	<message key="admin.presses.createInstructions">You will automatically be enrolled as the manager of this journal. After creating a new journal, you will be redirected to its settings wizard, to complete the initial journal setup.</message>
 	<message key="admin.scheduledTask.subscriptionExpiryReminder">Subscription Expiry Reminder</message>

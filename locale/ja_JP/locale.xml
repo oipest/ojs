@@ -184,9 +184,9 @@
 
 	<!-- Common Journal Terms -->
 	<message key="journal.currentIssue">Current Issue</message>
-	<message key="journal.journals">Journals</message>
-	<message key="journal.path">Path</message>
-	<message key="context.context">Journal</message>
+	<message key="journal.journals">ジャーナル</message>
+	<message key="journal.path">パス</message>
+	<message key="context.context">ジャーナル</message>
 	<message key="journal.issn">ISSN</message>
 	<message key="journal.viewAllIssues">View All Issues</message>
 

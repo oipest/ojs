@@ -12,8 +12,8 @@
   -->
  
 <locale name="ja_JP" full_name="日本語">
-	<message key="plugins.importexport.pubmed.displayName">PubMed XML Export Plugin</message>
-	<message key="plugins.importexport.pubmed.description">Export article metadata in PubMed XML format for indexing in MEDLINE.</message>
+	<message key="plugins.importexport.pubmed.displayName">PubMed XMLエクスポートプラグイン</message>
+	<message key="plugins.importexport.pubmed.description">論文のメタデータをMEDLINE索引作成用のPubMed XML形式でエクスポートします。</message>
 	
 	<message key="plugins.importexport.pubmed.export">Export Data</message>
 	<message key="plugins.importexport.pubmed.export.issues">Export Issues</message>

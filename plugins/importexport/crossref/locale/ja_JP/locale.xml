@@ -13,12 +13,12 @@
 
 <locale name="ja_JP" full_name="日本語">
 	<message key="plugins.importexport.crossref.displayName">CrossRef XML 出力プラグイン</message>
-	<message key="plugins.importexport.crossref.description">Export article metadata in CrossRef XML format.</message>
+	<message key="plugins.importexport.crossref.description">ジャーナルのメタデータをCrossRef XMLフォーマットでエクスポートします。</message>
 	<!-- settings -->
-	<message key="plugins.importexport.crossref.requirements">Requirements</message>
-	<message key="plugins.importexport.crossref.requirements.satisfied">All plugin requirements are satisfied.</message>
-	<message key="plugins.importexport.crossref.error.publisherNotConfigured"><![CDATA[A journal publisher has not been configured! You must add a publisher institution on the <a href="{$journalSettingsUrl}" target="_blank">Journal Settings Page</a>.]]></message>
-	<message key="plugins.importexport.crossref.error.issnNotConfigured"><![CDATA[A journal ISSN has not been configured! You must add an ISSN on the <a href="{$journalSettingsUrl}" target="_blank">Journal Settings Page</a>.]]></message>
+	<message key="plugins.importexport.crossref.requirements">必須要件</message>
+	<message key="plugins.importexport.crossref.requirements.satisfied">すべてのプラグイン要件が満たされています。</message>
+	<message key="plugins.importexport.crossref.error.publisherNotConfigured"><![CDATA[ジャーナルの出版社が設定されていません！<a href="{$journalSettingsUrl}" target="_blank">ジャーナル設定ページ</a> で出版社を追加してください。]]></message>
+	<message key="plugins.importexport.crossref.error.issnNotConfigured"><![CDATA[ジャーナルのISSNが設定されていません！<a href="{$journalSettingsUrl}" target="_blank">ジャーナル設定ページ</a> でISSNを追加してください。]]></message>
 	<message key="plugins.importexport.crossref.error.noDOIContentObjects">Articles are not selected for DOI assignment in the DOI public identifier plugin, so there is no deposit or export possibility in this plugin.</message>
 	<message key="plugins.importexport.crossref.settings.depositorIntro">The following items are required for a successful CrossRef deposit.</message>
 	<message key="plugins.importexport.crossref.settings.form.depositorName">Depositor name</message>
